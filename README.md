@@ -4,7 +4,9 @@
 
 # Group Members
 Zachary Kloiber (zak61@pitt.edu) - Air Quality
+
 Patrick Walsh (pww5@pitt.edu) - Crime Rate
+
 Ayli Davidson (AAD165@pitt.edu) - Fires
 
 # Data Sets Used
