@@ -15,4 +15,5 @@ AQI Data - https://data.wprdc.org/dataset/allegheny-county-air-quality/resource/
 Pittsburgh Police Arrest Data - https://data.wprdc.org/dataset/arrest-data
   This dataset contains arrest data from the Pittsburgh Police.  It contains information about who was arrested, what they were arrested for, and information about where the incident that caused the arrest and the resulting arrest took place. 
 Fire Incident Data - https://data.wprdc.org/dataset/fire-incidents-in-city-of-pittsburgh
+  This is a dataset of information on fire incidents that the Pittsburgh Bureau of Fire responded to. It lists exactly when and where the fire happened, a short description of what kind of fire it was, and which unit responded to the alarm. 
 
