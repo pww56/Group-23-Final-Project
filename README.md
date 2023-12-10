@@ -11,7 +11,8 @@ Patrick Walsh (pww5@pitt.edu) - Crime Rate,
 Ayli Davidson (AAD165@pitt.edu) - Fires, 
 
 # Data Sets Used
-AQI Data - https://data.wprdc.org/dataset/allegheny-county-air-quality/resource/4ab1e23f-3262-4bd3-adbf-f72f0119108b, 
+AQI Data - https://data.wprdc.org/dataset/allegheny-county-air-quality/resource/4ab1e23f-3262-4bd3-adbf-f72f0119108b
+This Data set contains the Air quality for different sensors and different kinds of contaminants. The data has the AQI (Air Quality Index) of each contaminants. Some parts of the city have multiple sensors for them. 
 Pittsburgh Police Arrest Data - https://data.wprdc.org/dataset/arrest-data
   This dataset contains arrest data from the Pittsburgh Police.  It contains information about who was arrested, what they were arrested for, and information about where the incident that caused the arrest and the resulting arrest took place. 
 Fire Incident Data - https://data.wprdc.org/dataset/fire-incidents-in-city-of-pittsburgh
